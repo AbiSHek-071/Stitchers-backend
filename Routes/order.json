@@ -1,0 +1,97 @@
+{
+  "_id": "67223705d405a0fd7f409ae8",
+  "order_id": "COZ1730295557465722",
+  "user": {
+    "_id": "6718843045ec32a1b2f7eacc",
+    "name": "Abhishek P",
+    "email": "abhishekpawoor654@gmail.com",
+    "phone": 8304944316,
+    "googleId": "111888929477059280643",
+    "isActive": true
+  },
+  "shipping_address": {
+    "_id": "671b64ad61a213d555700263",
+    "name": "Abhishek P",
+    "phone": 8304944316,
+    "address": "payyannur,kannur",
+    "city": "payyannur",
+    "district": "kannur",
+    "state": "kerala",
+    "pincode": 670521,
+    "landmark": "karivellur",
+    "email": "abhishekpawoor654@gmail.com"
+  },
+  "order_items": [
+    {
+      "_id": "67223705d405a0fd7f409ae9",
+      "product": {
+        "_id": "670f77ed64381227523a95ca",
+        "name": "Ocean Breeze Linen Shirt",
+        "category": "670cbebefbb305a59665782c",
+        "description": "The Ocean Breeze Linen Shirt is designed for laid-back comfort and effortless style. Crafted from lightweight, breathable linen, this shirt is perfect for warm weather or relaxed days.",
+        "price": 3000,
+        "salePrice": 2777,
+        "sleeve": "short",
+        "sizes": [
+          { "_id": "670f77ed64381227523a95cb", "size": "S", "stock": 0 },
+          { "_id": "670f77ed64381227523a95cc", "size": "M", "stock": 0 },
+          { "_id": "670f77ed64381227523a95cd", "size": "L", "stock": 10 },
+          { "_id": "670f77ed64381227523a95ce", "size": "XL", "stock": 0 }
+        ],
+        "images": [
+          "https://res.cloudinary.com/dneqndzyc/image/upload/v1729590736/emfyrdbxhh4xgljbayoz.jpg",
+          "https://res.cloudinary.com/dneqndzyc/image/upload/v1729590737/db87khu1ixas64m5ykou.jpg",
+          "https://res.cloudinary.com/dneqndzyc/image/upload/v1729677390/qoi7bmbuwtdbx6hdptlx.jpg"
+        ],
+        "totalStock": 25,
+        "isActive": true
+      },
+      "qty": 1,
+      "price": 2777,
+      "discount": 0,
+      "total_price": 2777,
+      "order_status": "Pending"
+    },
+    {
+      "_id": "67223705d405a0fd7f409aea",
+      "product": {
+        "_id": "67110579c6d3b13c6c7e13dc",
+        "name": "Chocolate Luxe Coat",
+        "category": "670ccd5a2383cbf4b3c9620a",
+        "description": "Indulge in the rich elegance of the Chocolate Luxe Coat, a must-have addition to your wardrobe. Crafted from a luxurious blend of soft fabrics, this coat envelops you in warmth while exuding sophistication.",
+        "price": 2400,
+        "salePrice": 2000,
+        "sleeve": "long",
+        "sizes": [
+          { "_id": "67110579c6d3b13c6c7e13dd", "size": "S", "stock": 0 },
+          { "_id": "67110579c6d3b13c6c7e13de", "size": "M", "stock": 0 },
+          { "_id": "67110579c6d3b13c6c7e13df", "size": "L", "stock": 4 },
+          { "_id": "67110579c6d3b13c6c7e13e0", "size": "XL", "stock": 0 }
+        ],
+        "images": [
+          "https://res.cloudinary.com/dneqndzyc/image/upload/v1729591919/ehso5ssy14nengx5ar6e.jpg",
+          "https://res.cloudinary.com/dneqndzyc/image/upload/v1729591921/kcwvf9ybufgp9stnoluo.jpg",
+          "https://res.cloudinary.com/dneqndzyc/image/upload/v1729591922/hpjwh0pu2k1fnlgmeqkk.jpg",
+          "https://res.cloudinary.com/dneqndzyc/image/upload/v1729591924/puydyij77v2ly3ch24ua.jpg"
+        ],
+        "totalStock": 8,
+        "isActive": true
+      },
+      "qty": 2,
+      "price": 2000,
+      "discount": 0,
+      "total_price": 4000,
+      "order_status": "Pending"
+    }
+  ],
+  "total_amount": 6777,
+  "total_discount": 0,
+  "coupon_discount": 0,
+  "shipping_fee": 0,
+  "total_price_with_discount": 6777,
+  "payment_method": "Cash on Delivery",
+  "payment_status": "Pending",
+  "placed_at": "2024-10-30T13:39:17.464Z",
+  "delivery_by": "2024-11-06T13:39:17.465Z",
+  "updatedAt": "2024-10-30T13:39:17.476Z"
+}
